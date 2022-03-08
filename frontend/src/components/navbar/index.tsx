@@ -10,7 +10,7 @@ export default function Navbar() {
                     <a href="https://github.com/renan-oliveira93">
                         <div className='dsmovie-contact-container'>
                             <GithubIcon />
-                            <p>/devsuperior</p>
+                            <p>/renan-oliveira</p>
                         </div>
                     </a>
                 </div>
